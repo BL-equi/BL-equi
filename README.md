@@ -1,5 +1,5 @@
 # 💫 About Me:
-In look for a job <br>looking to collaborate in programming, taging or design projects <br>i'm currently learning more about HTML, CSS, JS and more<br>Graduated from a computer technical course<br><br>A procura de emprego<br>Busco colaborar em projetos de marcação, programação ou design<br>Atualmente aprendendo mais sobre HTML, CSS, JS e mais<br>Formada em curso tecnico de informatica  
+<br>looking to collaborate in programming, web development or design projects <br>i'm currently in a college program foccused on software and media development <br>Graduated from a computer technical course<br><br>A procura de emprego<br>Busco colaborar em projetos de desenvolvimento web, programação ou design<br>Atualmente cursando Sistemas e Mídias digitais na UFC, curso focado em desenvolvimento de softwares e mídias<br>Formada em curso tecnico de informatica no IFCE
 
 
 ## 🌐 Socials:
