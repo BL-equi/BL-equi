@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>looking to collaborate in programming, web development or design projects <br>i'm currently in a college program foccused on software and media development <br>Graduated from a computer technical course<br>Busco colaborar em projetos de desenvolvimento web, programação ou design<br>Atualmente cursando Sistemas e Mídias digitais na UFC, curso focado em desenvolvimento de softwares e mídias<br>Formada em curso tecnico de informatica no IFCE
+<br>looking to collaborate as back ending or fullstack developer <br>i'm currently coursing  <br>Graduated IT Specialist <br>Busco colaborar em projetos como desenvolvedora de Back ending ou Full stack <br>Atualmente cursando Sistemas e Mídias digitais na UFC, curso focado em desenvolvimento de softwares e mídias<br>Formada em curso tecnico de informatica no IFCE
 
 
 ## 🌐 Socials:
